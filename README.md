@@ -1,6 +1,6 @@
 ## Wazzup! 👋
 It's nice to have you here. <br /> I'm David, a web developer. <br />
-I'm currently I'm focusing on the MERN stack.
+Currently I'm focusing on the MERN stack.
 
 ---
 
