@@ -1,5 +1,5 @@
 ## Wazzup! 👋
-Nice to have you here. <br /> I'm David, a web developer. <br />
+It's nice to have you here. <br /> I'm David, a web developer. <br />
 Currently I'm focusing on the MERN stack.
 
 ---
