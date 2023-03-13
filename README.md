@@ -1,7 +1,7 @@
 ## Wazzup! 👋
 It's nice to have you here. <br /> I'm David, a web developer. <br />
 Currently I'm focusing on the MERN stack.
-
+<!--
 ---
 
 #####  &nbsp;
@@ -13,7 +13,7 @@ Currently I'm focusing on the MERN stack.
 </p>
 
 ---
-
+-->
 #####  &nbsp;
 <p align="center">
   <a href="https://github.com/daviiro">
@@ -46,3 +46,4 @@ Currently I'm focusing on the MERN stack.
     <img src = "https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target = "_blank"> 
   </a>
 </div>
+
