@@ -3,7 +3,7 @@ It's nice to have you here. <br /> I'm David, a web developer. <br />
 Currently I'm focusing on the MERN stack.
 
 ---
-<!--
+
 #####  &nbsp;
 
 <p align="center">
@@ -14,7 +14,7 @@ Currently I'm focusing on the MERN stack.
 </p>
 
 ---
--->
+
 #####  &nbsp;
 <p align="center">
   <a href="https://github.com/daviiro">
